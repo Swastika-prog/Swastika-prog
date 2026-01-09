@@ -1,5 +1,5 @@
-#  About Me:
- I’m currently working on:<br>AI projects, ML, DL and NLP<br><br> I’m looking to collaborate on:<br>Machine learning, FastAPI apps & open-source data tools.<br><br> I’m looking for help with:<br>Deploying ML solutions on cloud (AWS / Docker).<br><br> I’m currently learning:<br>GenAI, FastAPI, and advanced SQL.<br><br> Ask me about:<br>Python, DSA and Streamlit.
+# 💫 About Me:
+🔭 I’m currently working on:<br>AI projects, ML, DL and NLP<br><br>🤝 I’m looking to collaborate on:<br>Machine learning, FastAPI apps & open-source data tools.<br><br>🤔 I’m looking for help with:<br>Deploying ML solutions on cloud (AWS / Docker).<br><br>🌱 I’m currently learning:<br>GenAI, FastAPI, and advanced SQL.<br><br>💬 Ask me about:<br>Python, DSA and Streamlit.
 
 
 ## 🌐 Socials:
