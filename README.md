@@ -31,8 +31,8 @@ Focused on **agentic AI**, with theoretical understanding of **Retrieval-Augment
 
 ## 🎓 Education
 
-Bachelor of Technology (BTech) in Computer Science and Engineering** (Aug 2023 – Present)  
-Coursework:** Data Structures & Algorithms, Operating Systems, Database Management Systems, Computer Networks, Object-Oriented Programming
+Bachelor of Technology (BTech) in Computer Science and Engineering(Aug 2023 – Present)  
+Coursework: Data Structures & Algorithms, Operating Systems, Database Management Systems, Computer Networks, Object-Oriented Programming
 ---
 
 
