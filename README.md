@@ -9,9 +9,6 @@
   <a href="mailto:swastikakhatua4@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/Swastika-prog" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=flat&logo=github&logoColor=white" alt="GitHub" />
-  </a>
   <!-- Add your links if you want -->
   <!--
   <a href="https://instagram.com/YOUR_ID" target="_blank">
