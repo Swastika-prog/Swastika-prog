@@ -35,7 +35,6 @@ Bachelor of Technology (BTech) in Computer Science and Engineering** (Aug 2023 �
 Coursework:** Data Structures & Algorithms, Operating Systems, Database Management Systems, Computer Networks, Object-Oriented Programming
 ---
 
-## 💻 Tech Stack
 
 ## 🧠 Skills & Tech Stack
 
