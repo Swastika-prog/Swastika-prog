@@ -31,42 +31,35 @@ Focused on **agentic AI**, with theoretical understanding of **Retrieval-Augment
 
 ## 🎓 Education
 
-**Bachelor of Technology (BTech) in Computer Science and Engineering** (Aug 2023 – Present)  
-**Coursework:** Data Structures & Algorithms, Operating Systems, Database Management Systems, Computer Networks, Object-Oriented Programming
+Bachelor of Technology (BTech) in Computer Science and Engineering** (Aug 2023 – Present)  
+Coursework:** Data Structures & Algorithms, Operating Systems, Database Management Systems, Computer Networks, Object-Oriented Programming
 ---
 
 ## 💻 Tech Stack
 
+## 🧠 Skills & Tech Stack
+
+### Languages
 <p>
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/C-0B1020?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/Java-0B1020?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/LaTeX-0B1020?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
-  <img src="https://img.shields.io/badge/Python-0B1020?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,mysql" alt="Languages" />
+</p>
 
-  <!-- App / Backend -->
-  <img src="https://img.shields.io/badge/Streamlit-0B1020?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/Anaconda-0B1020?style=for-the-badge&logo=anaconda&logoColor=44A833" alt="Anaconda" />
-  <img src="https://img.shields.io/badge/FastAPI-0B1020?style=for-the-badge&logo=fastapi&logoColor=00C7B7" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/MySQL-0B1020?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+### AI / ML / NLP
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" alt="PyTorch TensorFlow" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/NLP-0F172A?style=for-the-badge&logo=bookstack&logoColor=22d3ee" alt="NLP" />
+  <img src="https://img.shields.io/badge/GenAI-111827?style=for-the-badge&logo=openai&logoColor=white" alt="GenAI" />
+  <img src="https://img.shields.io/badge/RAG-1E293B?style=for-the-badge&logo=semanticweb&logoColor=38bdf8" alt="RAG" />
+</p>
 
-  <!-- ML / DS -->
-  <img src="https://img.shields.io/badge/Keras-0B1020?style=for-the-badge&logo=keras&logoColor=D00000" alt="Keras" />
-  <img src="https://img.shields.io/badge/Matplotlib-0B1020?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/NumPy-0B1020?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/pandas-0B1020?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
-  <img src="https://img.shields.io/badge/Plotly-0B1020?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
-  <img src="https://img.shields.io/badge/PyTorch-0B1020?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-0B1020?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/SciPy-0B1020?style=for-the-badge&logo=scipy&logoColor=8CAAE6" alt="SciPy" />
-  <img src="https://img.shields.io/badge/scikit--learn-0B1020?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" alt="scikit-learn" />
-
-  <!-- Dev Tools -->
-  <img src="https://img.shields.io/badge/Git-0B1020?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-0B1020?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Postman-0B1020?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman" />
-  <img src="https://img.shields.io/badge/Docker-0B1020?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
-  <img src="https://img.shields.io/badge/Swagger-0B1020?style=for-the-badge&logo=swagger&logoColor=85EA2D" alt="Swagger" />
+### Frameworks / Tools / Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,docker,git,github,streamlit" alt="Tools" />
+  <img src="https://img.shields.io/badge/LangChain-111827?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-0B1020?style=for-the-badge&logo=graphql&logoColor=e10098" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/MCP-1E293B?style=for-the-badge&logo=protocolsio&logoColor=38bdf8" alt="MCP" />
 </p>
 
 ---
