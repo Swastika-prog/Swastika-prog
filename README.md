@@ -36,10 +36,6 @@ Focused on **agentic AI**, with theoretical understanding of **Retrieval-Augment
     <td width="75%">
       <b>B.Tech in Computer Science & Engineering (Aug 2023 – Present)</b><br/>
       <b>Relevant Coursework:</b> Data Structures & Algorithms, Operating Systems, Database Management Systems, Computer Networks, Object-Oriented Programming
-    </td>
-    <td width="25%" align="right">
-      <b>2023 – Present</b>
-    </td>
   </tr>
 </table>
 
