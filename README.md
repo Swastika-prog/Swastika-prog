@@ -31,9 +31,17 @@ Focused on **agentic AI**, with theoretical understanding of **Retrieval-Augment
 
 ## 🎓 Education
 
-Bachelor of Technology (BTech) in Computer Science and Engineering(Aug 2023 – Present)  
-Coursework: Data Structures & Algorithms, Operating Systems, Database Management Systems, Computer Networks, Object-Oriented Programming
----
+<table>
+  <tr>
+    <td width="75%">
+      <b>B.Tech in Computer Science & Engineering (Aug 2023 – Present)</b><br/>
+      <b>Relevant Coursework:</b> Data Structures & Algorithms, Operating Systems, Database Management Systems, Computer Networks, Object-Oriented Programming
+    </td>
+    <td width="25%" align="right">
+      <b>2023 – Present</b>
+    </td>
+  </tr>
+</table>
 
 
 ## 🧠 Skills & Tech Stack
@@ -135,7 +143,7 @@ Coursework: Data Structures & Algorithms, Operating Systems, Database Management
 
 ---
 
-## 🐍 Contribution Snake (Optional)
+## 🐍 Contribution Snake 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Swastika-prog/Swastika-prog/output/github-contribution-grid-snake.svg" alt="Snake animation" />
